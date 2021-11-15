@@ -8,8 +8,6 @@ Les méthodes agiles SCRUM et XP pour la gestion d'un projet (Application de ges
 des problèmes complexes – et en constante transformation – afin de développer des produits ayant 
 la plus grande valeur perçue pour le client final. ».
 
-# Overview
-
 ![en_overview](https://www.heflo.com/fr/wp-content/uploads/sites/3/2018/08/methode-agile-scrum-02.jpg)
 
 ## 2. XP(Extreme Programming)
@@ -23,8 +21,6 @@ clients, fournisseurs, prestataires, etc. Elle se base sur des processus itérat
 cycles courts qui incluent des tests, des échanges avec le client et des livraisons en continu.
 De cette façon, l’équipe projet peut rapidement détecter et éliminer les erreurs, et elle peut 
 immédiatement mettre en place les changements demandés par le client.
-
-# Overview
 
 ![en_overview](https://www.researchgate.net/profile/Sehrish-Alam-2/publication/316600468/figure/fig1/AS:489065029083137@1493613597978/Extreme-programming-6.png)
 
