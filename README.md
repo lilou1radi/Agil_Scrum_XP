@@ -1,6 +1,6 @@
 # Agil_Scrum_XP
 
-Les méthodes agiles SCRUM et XP pour la gestion d'un projet (Application de gestion d'abscences). 
+Un aperçu sur les méthodes agiles SCRUM et XP pour la gestion d'un projet (Application de gestion d'abscences). 
 
 ## 1. SCRUM :
 
